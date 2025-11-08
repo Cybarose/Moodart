@@ -1,4 +1,6 @@
-# Moodart – Moodboard App
+# Moodart 
+
+🔗 **Live Demo:** [https://moodart-six.vercel.app/](https://moodart-six.vercel.app/)
 
 A creative web app for building interactive moodboards with text, images, audio, video, and color palettes.  
 This project is still in early development.
