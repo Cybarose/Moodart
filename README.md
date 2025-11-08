@@ -1,7 +1,7 @@
 # Moodart – Moodboard App
 
 A creative web app for building interactive moodboards with text, images, audio, video, and color palettes.  
-This project is still in early development. 
+This project is still in early development.
 
 ---
 
@@ -12,12 +12,12 @@ There are still bugs and unfinished features.
 
 ---
 
-## Known Issues / TODOs
+## TODOs
 
-- **Text direction**: The document editor writes text in reverse direction.
-- **Video elements**: After adding a video, it can be difficult to move or select the element.
-- **Selection tool**: The select mode tool is not fully functional yet.
-- **Export**: Export features are not fully tested and may have bugs.
+- [ ] **Text direction:** The document editor writes text in reverse direction.  
+- [ ] **Video elements:** After adding a video, it can be difficult to move or select the element.  
+- [ ] **Selection tool:** The select mode tool is not fully functional yet.  
+- [ ] **Export:** Export features are not fully tested and may have bugs.
 
 ---
 
